@@ -4,8 +4,8 @@
 ---
 
 ## Student Information
-- **Name:** A.L.M Athulathmudali  
-- **IT Number:** IT21129544  
+- **Name:** Sandaru G A 
+- **IT Number:** IT22258908 
 - **Institution:** SLIIT   
 - **Faculty:** Software Engineering  
 - **Module:** Current Trends in Software Engineering (SE4010)  
